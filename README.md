@@ -22,7 +22,7 @@ Enjoy competitive content like raids and m+ at a high level, and improve
 
 ## Achievements
 
-- **Vault of the Incarnates:** WR438 with Incentive on Draenor
+- **Vault of the Incarnates:** WR438 with Incentive (Now World 11 Guild) on Draenor
 - **Sanctum of Domination:** Guild disbanded after 7/10M with Grey Log Gang on Draenor
 - **Castle Nathria:** WR941 with Grey Log Gang on Draenor
 - **Dragonflight Season 1:** 2.9k Mythic+ rating
@@ -32,6 +32,8 @@ Enjoy competitive content like raids and m+ at a high level, and improve
 - [Raider.IO profile, Dragonflight Season 1](https://raider.io/characters/eu/draenor/Burnjuice?season=season-df-1)
 - [Older gameplay, CE Sire Denathrius](https://www.twitch.tv/videos/1019172668)
 - [Vault of the Incarnates prog logs](https://cdn.discordapp.com/attachments/870738576344752208/1519366913480855705/image.png?ex=6a3d4c34&is=6a3bfab4&hm=80547a1c359705e5e56d7671419e5670fca7852615f54b624a0efd79490165e0&)
+- [Current main char](https://raider.io/characters/eu/draenor/Burnjuice)
+- [Current alt](https://raider.io/characters/eu/draenor/Burndk)
 
 ## Contact
 
